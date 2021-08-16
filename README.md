@@ -1,2 +1,2 @@
-# spark-in-action
+# Spark in action
 Labs from book "Spark in Action, 2ed"
