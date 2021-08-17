@@ -62,7 +62,7 @@ public class TransformationAndActionApp {
         df.collect();
         long t6 = System.currentTimeMillis();
         System.out.println("6. Final action ................. " + (t6 - t5));
-        System.out.println("");
+        System.out.println();
         System.out.println("# of records .................... " + df.count());
     }
 }
